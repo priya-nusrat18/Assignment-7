@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Shakib AL Hasan",
+		"teamName": "Dhaka Dynamites",
+		"playingRoll": "ALL-rounder",
+		"salary": 425000,
+		"image": "https://i.ibb.co/1q6GtvM/Shakibimages.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Mushfiqur Rahim",
+		"teamName": "Khulna Tigers",
+		"playingRoll": "Wicket-keeper",
+		"salary": 415000,
+		"image": "https://i.ibb.co/fHYhC8B/mushfi-Images.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Mashrafe Mortaza",
+		"teamName": "Dhaka Dynamites",
+		"playingRoll": "Bowler",
+		"salary": 430000,
+		"image": "https://i.ibb.co/hB1PQ8D/mashrarfidownload.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Tamim Iqbal",
+		"teamName": "Dhaka Dynamites",
+		"playingRoll": "Batsman",
+		"salary": 420000,
+		"image": "https://i.ibb.co/hCCcZt3/tamimimages.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Mustafizur Rahman",
+		"teamName": "Rangpur Rangers",
+		"playingRoll": "Bowler",
+		"salary": 315000,
+		"image": "https://i.ibb.co/MGmZXqf/Mustafizdownload.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Mehidy Hasan",
+		"teamName": "Rajshahi Royals",
+		"playingRoll": "ALL-rounder",
+		"salary": 225000,
+		"image": "https://i.ibb.co/9cgSMJq/mehediimages.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Mohammad Mithun",
+		"teamName": "Dhaka Dynamites",
+		"playingRoll": "Bowler",
+		"salary": 320000,
+		"image": "https://i.ibb.co/k9LvRqJ/mohammadmithundownload.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Mahmudullah",
+		"teamName": "Khulna Tigers",
+		"playingRoll": "All-rounder",
+		"salary": 350000,
+		"image": "https://i.ibb.co/VxCzdCb/mahmudullahimages.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Liton Das",
+		"teamName": "Chattogram Challengers",
+		"playingRoll": "Wicket-keeper",
+		"salary": 230000,
+		"image": "https://i.ibb.co/Gk3YH66/litondownload.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Soumya Sarakar",
+		"teamName": "Comilla Warriors",
+		"playingRoll": "All-rounder",
+		"salary": 220397855,
+		"image": "https://i.ibb.co/mrs8tsq/somyoimages.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Rubel Hossain",
+		"teamName": "Sylhet Thunders",
+		"playingRoll": "Bowler",
+		"salary": 370000,
+		"image": "https://i.ibb.co/9Vdw6kq/rubelimages.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Sabbir Rahman",
+		"teamName": "Sylhet Thunders",
+		"playingRoll": "All-rounder",
+		"salary": 280000,
+		"image": "https://i.ibb.co/MnPGt4N/sabbirdownload.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Abu Jayed",
+		"teamName": "Bowler",
+		"playingRoll": "Comilla Warriors",
+		"salary": 250000,
+		"image": "https://i.ibb.co/3B8RLVR/abuzayeddownload.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Mosaddek Hossain",
+		"teamName": "Rangpur Rangers",
+		"playingRoll": "Batsman",
+		"salary": 220000,
+		"image": "https://i.ibb.co/hZTkpz3/mosaddekimages.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Mohammad Saifuddin",
+		"teamName": "Khulna Tiger",
+		"playingRoll": "All-rounder",
+		"salary": 200000,
+		"image": "https://i.ibb.co/5Fw9GFR/safuddinimages.jpg"
+	}
+]
